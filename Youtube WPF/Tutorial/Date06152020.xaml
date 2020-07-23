@@ -1,0 +1,51 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Youtube_WPF.Tutorial"
+        xmlns:System1="clr-namespace:System;assembly=mscorlib" x:Class="Youtube_WPF.Tutorial.Date06152020"
+        mc:Ignorable="d"
+        Title="Date06152020" Height="450" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        
+        <ComboBox Grid.Column="0"  SelectionChanged="ComboBox_SelectionChanged" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="181" Height="25">
+            <System1:String>Apple</System1:String>
+            <System1:String>Mango</System1:String>
+            <System1:String>Grapes</System1:String>
+            <System1:String>Orange</System1:String>
+            <System1:String>Peer</System1:String>
+            <Button Content="Hello World" />
+            <CheckBox Content="Selection"/>
+
+        </ComboBox>
+        <TreeView Grid.Column="1" Name="Treeview1" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <TreeViewItem Header="First root node"/>
+            <TreeViewItem>
+                <TreeViewItem Header="First root first child"/>
+                <TreeViewItem Header="First root second child"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Second root node"/>
+            <TreeViewItem>
+                <TreeViewItem Header="Second root first child"/>
+                <TreeViewItem Header="Second root second child"/>
+            </TreeViewItem>
+            <TreeViewItem Header="Third root node"/>
+            
+        </TreeView>
+        
+        <StackPanel Grid.Column="2">
+            <ScrollViewer HorizontalScrollBarVisibility="Auto">
+            <TextBlock Text="Most often times in the programming we don't know about the size of the content to be displayed. The content may be fit in to the allotted area or may be larger than. That's why in WPF there is a control i.e. ScrollViewer which can enable scrolling of those content whenever the content goes out to the display area."/>
+
+        </ScrollViewer>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,77 @@
+﻿<Window x:Class="Youtube_WPF.Tutorial.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Youtube_WPF.Tutorial"
+        mc:Ignorable="d"
+        Title="06092020" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <!--define size-->
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row=" 0" Grid.Column="0" Name="button0610" Content='06102020' Click="button0610_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="1" Name="button0612" Content='06122020' Click="Button0612_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="2" Name="button0615" Content='06152020' Click="Button0615_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="3" Name="button0617" Content='06172020' Click="Button0617_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="4" Name="button0619" Content='ToggleButton' Click="Button0619_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="5" Name="button0624" Content='TabControl' Click="TabControl_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="6" Name="button0630" Content='Date0630' Click="Button0630_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="7" Name="labelcontrol" Content='labelcontrol' Click="labelcontrol_click"/>
+        <Button Grid.Row=" 0" Grid.Column="7" Name="Progressbar" Content='Progressbar' Click="Progressbar_click"/>
+        <Button Grid.Row=" 0" Grid.Column="8" Name="button0707" Content='Date0707' Click="Button0707_Click" />
+        <Button Grid.Row=" 0" Grid.Column="9" Name="button0708" Content='Date0708' Click="Button0708_Click"/>
+        <Button Grid.Row=" 0" Grid.Column="10" Name="MouseAction" Content='MouseAction' Click="MouseAction_Click">
+            <Button.ToolTip>
+                <!--https://www.youtube.com/watch?v=IhxTfpe56ow-->
+                <StackPanel Background="LightSalmon">
+                    <TextBlock Text="ToolTip Color change"/>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+
+
+
+
+
+        <Image Grid.Row="9" Grid.Column="1" Source="../Images/SwivelLogo.png" Height="60"/>
+        <Button Grid.Row="9" Margin="0,0,0,0">
+            <StackPanel Orientation="Vertical">
+                <Image Source="../Images/SwivelLogo.png" Stretch="Uniform" Height="50" Width="50"/>
+                <TextBlock Text="Swivel" FontSize ="15" HorizontalAlignment="Center" />
+            </StackPanel>
+            
+        </Button>
+
+        <ToggleButton Grid.Row="9" Grid.Column="2" Name="toogle" Content='Hello'/>
+    </Grid>
+
+
+</Window>

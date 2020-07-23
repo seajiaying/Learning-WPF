@@ -1,0 +1,46 @@
+﻿<Window x:Class="Youtube_WPF.Tutorial.labelcontrol"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Youtube_WPF.Tutorial"
+        mc:Ignorable="d"
+        Title="labelcontrol" Height="450" Width="800">
+    <Grid>
+
+        <Label x:Name="firstnolb1" Margin="21,53,639,328" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="15.811"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+            <Label.Background>
+
+                <ImageBrush ImageSource="../Images/background.jpg"/>
+
+            </Label.Background> Enter First Number
+        </Label>
+        <Label x:Name="firstnolb1_Copy" Margin="15,149,644,232" RenderTransformOrigin="0.5,0.5" Content="Enter Second Number">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="15.811"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+            <Label.Background>
+
+                <ImageBrush ImageSource="/Youtube WPF;component/Images/background.jpg"/>
+
+            </Label.Background>
+        </Label>
+        <TextBox HorizontalAlignment="Left" Height="46" Margin="177,63,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="260"/>
+        <TextBox HorizontalAlignment="Left" Height="46" Margin="177,164,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="260"/>
+
+
+    </Grid>
+</Window>

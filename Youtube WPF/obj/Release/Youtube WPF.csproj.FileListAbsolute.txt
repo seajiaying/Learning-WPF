@@ -1,0 +1,17 @@
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\bin\Release\Youtube WPF.exe.config
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\bin\Release\Youtube WPF.exe
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\bin\Release\Youtube WPF.pdb
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.csprojAssemblyReference.cache
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Tutorial\06092020.g.cs
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Tutorial\06102020.g.cs
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\App.g.cs
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF_MarkupCompile.cache
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF_MarkupCompile.lref
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Tutorial\06092020.baml
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Tutorial\06102020.baml
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.g.resources
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube_WPF.Properties.Resources.resources
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.csproj.GenerateResource.cache
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.csproj.CoreCompileInputs.cache
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.exe
+C:\Users\jessica.yuan\Desktop\Youtube WPF\Youtube WPF\obj\Release\Youtube WPF.pdb
