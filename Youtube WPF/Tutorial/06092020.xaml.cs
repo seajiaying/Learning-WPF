@@ -121,6 +121,15 @@ namespace Youtube_WPF.Tutorial
             sw.Show();
             this.Close();//这句话关闭第一个窗口
         }
+
+        private void UpdateSourceTrigger_Click(object sender, RoutedEventArgs e)
+        {
+            Views.UpdateSourceTrigger sw = new Views.UpdateSourceTrigger();
+            //this.visibility = visibility.hidden;//这句话隐藏第一个窗口
+            sw.Show();
+            this.Close();//这句话关闭第一个窗口
+        }
+
     }
 
 }
