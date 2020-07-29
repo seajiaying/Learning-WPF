@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Youtube_WPF.Tutorial"
         mc:Ignorable="d"
-        Title="06092020" Height="450" Width="800">
+        Title="06092020" Height="500" Width="1280">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
@@ -36,6 +36,8 @@
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+        
+        
         <Button Grid.Row=" 0" Grid.Column="0" Name="button0610" Content='06102020' Click="button0610_Click"/>
         <Button Grid.Row=" 0" Grid.Column="1" Name="button0612" Content='06122020' Click="Button0612_Click"/>
         <Button Grid.Row=" 0" Grid.Column="2" Name="button0615" Content='06152020' Click="Button0615_Click"/>
@@ -55,7 +57,7 @@
                 </StackPanel>
             </Button.ToolTip>
         </Button>
-
+        <Button Grid.Row=" 0" Grid.Column="11" Name="UpdateSourceTrigger" Content='UpdateSourceTrigger' Click="UpdateSourceTrigger_Click"/>
 
 
 
