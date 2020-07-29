@@ -67,3 +67,57 @@ C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Youtub
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Youtube WPF\Youtube WPF\obj\Debug\Youtube WPF.pdb
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Youtube WPF\Youtube WPF\obj\Debug\Views\UpdateSourceTrigger.g.cs
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Youtube WPF\Youtube WPF\obj\Debug\Views\UpdateSourceTrigger.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csprojAssemblyReference.cache
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\06092020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06102020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06152020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06122020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06192020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date0630.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date07072020.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date0708.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\labelcontrol.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\MouseAction.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Progressbar.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\TabControl.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\ToggleButton.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\ShellView.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\UpdateSourceTrigger.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\WPFHidetopPanelLayout.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\App.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF_MarkupCompile.cache
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF_MarkupCompile.lref
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.pdb
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Youtube WPF.exe.config
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Youtube WPF.exe
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Youtube WPF.pdb
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.xml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\06092020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06102020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06152020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06122020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date06192020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date0630.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date07072020.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Date0708.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\labelcontrol.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\MouseAction.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\Progressbar.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\TabControl.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\ToggleButton.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\ShellView.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\UpdateSourceTrigger.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\WPFHidetopPanelLayout.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.g.resources
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube_WPF.Properties.Resources.resources
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csproj.GenerateResource.cache
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csproj.CoreCompileInputs.cache
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csproj.CopyComplete
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.exe

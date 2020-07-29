@@ -1,0 +1,24 @@
+﻿<Window x:Class="Youtube_WPF.Views.WPFHidetopPanelLayout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Youtube_WPF.Views"
+        mc:Ignorable="d"
+        Title="WPFHidetopPanelLayout" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Visibility="{Binding GridVisibility}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="here will be some controls" FontSize="20"/>
+        </Grid>
+        <Button Content="{Binding ButtonText}" Command="{Binding ShowHidecommand}" Grid.Row="1"/>
+        <DataGrid Grid.Row="2"></DataGrid>
+    </Grid>
+</Window>

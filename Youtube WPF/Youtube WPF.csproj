@@ -136,11 +136,15 @@
     <Compile Include="ViewModels\MSGComand.cs" />
     <Compile Include="ViewModels\MyDataContext.cs" />
     <Compile Include="ViewModels\ShellViewModel.cs" />
+    <Compile Include="ViewModels\WPFHidetopPanelLayout.cs" />
     <Compile Include="Views\ShellView.xaml.cs">
       <DependentUpon>ShellView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\UpdateSourceTrigger.xaml.cs">
       <DependentUpon>UpdateSourceTrigger.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\WPFHidetopPanelLayout.xaml.cs">
+      <DependentUpon>WPFHidetopPanelLayout.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -232,6 +236,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\UpdateSourceTrigger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\WPFHidetopPanelLayout.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
