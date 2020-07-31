@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Youtube_WPF"
              StartupUri="Tutorial/06092020.xaml">
     <Application.Resources>
-         
+        
     </Application.Resources>
 </Application>

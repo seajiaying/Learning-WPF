@@ -121,3 +121,19 @@ C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learni
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csproj.CoreCompileInputs.cache
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.csproj.CopyComplete
 C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Youtube WPF.exe
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\DropDownMenu.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\App.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Views\DropDownMenu.baml
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu\UserControlMenuItem.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu\DropDownMenu.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu\UserControlCustomers.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu\UserControlProviders.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu1\UserControlCustomers.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu1\UserControlMenuItem.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu1\UserControlProviders.g.cs
+C:\Users\jessica.yuan\OneDrive - Automated Precision Inc\MTC SW\Winner SW\Learning-WPF\Youtube WPF\obj\Debug\Tutorial\DropDownMenu1\DropDownMenu.g.cs

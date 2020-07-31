@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
+
 namespace Youtube_WPF.Tutorial
 {
     /// <summary>
@@ -137,6 +138,8 @@ namespace Youtube_WPF.Tutorial
             sw.Show();
             this.Close();//这句话关闭第一个窗口
         }
+
+
     }
 
 }

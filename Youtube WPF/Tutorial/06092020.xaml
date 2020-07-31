@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Youtube_WPF.Tutorial"
         mc:Ignorable="d"
-        Title="06092020" Height="500" Width="1280">
+        Title="06092020" Height="500" Width="1380">
     <Grid>
 
 
@@ -18,13 +18,11 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
-            
+            <RowDefinition Height="auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <!--define size-->
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
@@ -60,9 +58,9 @@
             </Button.ToolTip>
         </Button>
         <Button Grid.Row=" 0" Grid.Column="11" Name="UpdateSourceTrigger" Content='UpdateSourceTrigger' Click="UpdateSourceTrigger_Click"/>
-        <Button Grid.Row=" 0" Grid.Column="12" Name="WPFHidetopPanelLayout" Content='WPFHidetopPanelLayout' Click="WPFHidetopPanelLayout_Click"/>
+        <Button Grid.Row=" 1" Grid.Column="0" Name="WPFHidetopPanelLayout" Content='HidetopPanel' Click="WPFHidetopPanelLayout_Click"/>
 
-
+        
 
 
         <Image Grid.Row="9" Grid.Column="1" Source="../Images/SwivelLogo.png" Height="60"/>
