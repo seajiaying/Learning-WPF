@@ -4,9 +4,10 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Youtube_WPF.Views"
+        xmlns:local2="clr-namespace:Youtube_WPF.Tutorial"
         mc:Ignorable="d"
         Title="WPFHidetopPanelLayout" Height="450" Width="800">
-    <Grid>
+    <Grid Height="450" Width="800" Background="#FFF0F0F0">
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
             <RowDefinition Height="auto"/>
