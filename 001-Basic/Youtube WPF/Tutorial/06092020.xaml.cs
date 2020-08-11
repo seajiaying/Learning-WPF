@@ -139,7 +139,13 @@ namespace Youtube_WPF.Tutorial
             this.Close();//这句话关闭第一个窗口
         }
 
-
+        private void StudentMVVM_Click(object sender, RoutedEventArgs e)
+        {
+            Views.Student sw = new Views.Student();
+            //this.visibility = visibility.hidden;//这句话隐藏第一个窗口
+            sw.Show();
+            this.Close();//这句话关闭第一个窗口
+        }
     }
 
 }

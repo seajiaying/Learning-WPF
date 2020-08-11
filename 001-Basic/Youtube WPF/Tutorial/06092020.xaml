@@ -59,8 +59,8 @@
         </Button>
         <Button Grid.Row=" 0" Grid.Column="11" Name="UpdateSourceTrigger" Content='UpdateSourceTrigger' Click="UpdateSourceTrigger_Click"/>
         <Button Grid.Row=" 1" Grid.Column="0" Name="WPFHidetopPanelLayout" Content='HidetopPanel' Click="WPFHidetopPanelLayout_Click"/>
+        <Button Grid.Row=" 1" Grid.Column="1" Name="StudentMVVM" Content='StudentMVVm' Click="StudentMVVM_Click"/>
 
-        
 
 
         <Image Grid.Row="9" Grid.Column="1" Source="../Images/SwivelLogo.png" Height="60"/>
